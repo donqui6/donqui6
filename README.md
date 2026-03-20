@@ -5,8 +5,8 @@
 
 ### Étudiant en informatique - fan des ordinateurs
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge)]([https://ton-site.com](https://donqui6.github.io/portfolio/))
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/ton-profil](https://www.linkedin.com/in/nathanael-gaudr%C3%A9e-daem-409870302/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge)](https://donqui6.github.io/portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathanael-gaudr%C3%A9e-daem-409870302/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nathanael.gdre.dm@gmail.com)
 
 </div>
