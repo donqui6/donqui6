@@ -15,7 +15,7 @@
 
 ## 🧑‍💻 À propos de moi
 
-- 🛠️ Je travaille actuellement sur l'utilisation des AI avec python, ainsi que la domotique sur C avec esp32.
+- 🛠️ Je travaille actuellement sur l'utilisation des LLM avec python, ainsi que la domotique sur C avec esp32.
 - ⚙️ J'apprends en ce moment **Unity / C#** ainsi que **PlatformIO / C**.
 
 ---
